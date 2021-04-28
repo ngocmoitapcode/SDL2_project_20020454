@@ -1,1 +1,21 @@
-﻿  Tetris-20020454- Pham Bich Ngoc.vcxproj -> C:\Users\hello\Desktop\Tetris-20020454- Pham Bich Ngoc\x64\Debug\Tetris-20020454- Pham Bich Ngoc.exe
+﻿  BaseObject.cpp
+  game.cpp
+  main.cpp
+  Menu.cpp
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(14,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(15,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(44,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(45,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(46,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(47,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\Menu.cpp(29,18): warning C4101: 'menu': unreferenced local variable
+  PointCounter.cpp
+C:\Users\hello\source\repos\SDL2_project_20020454\source\PointCounter.cpp(22,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\PointCounter.cpp(23,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\PointCounter.cpp(24,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hello\source\repos\SDL2_project_20020454\source\PointCounter.cpp(25,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tetromino.cpp
+  TextObject.cpp
+  well.cpp
+  Generating Code...
+  Tetris-20020454- Pham Bich Ngoc.vcxproj -> C:\Users\hello\source\repos\SDL2_project_20020454\x64\Debug\Tetris-20020454- Pham Bich Ngoc.exe
